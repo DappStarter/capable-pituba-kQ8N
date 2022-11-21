@@ -1,0 +1,9 @@
+{
+    "name": "MyDappy",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true
+    }
+}
